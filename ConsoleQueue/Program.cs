@@ -123,6 +123,7 @@ namespace ConsoleQueue
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git!");
             //ConvertWord(@"\\app2013\docs\d.doc", @"\\app2013\ConvertResult\d.pdf");
             //ConvertPPT(@"\\app2013\docs\y.ppt", @"\\app2013\ConvertResult\y.pdf");
             //string s = "http%3A%2F%2Fapp2013%2Foh%2Fwopi%2Ffiles%2F%40%2FwFileId%3FwFileId%3D%255C%255Capp2013%255Cdocs%255Cc%252Edoc";
