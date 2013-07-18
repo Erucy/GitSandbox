@@ -149,7 +149,7 @@ namespace ConsoleQueue
                 {
                     if (ex.MessageQueueErrorCode == MessageQueueErrorCode.IOTimeout)
                     {
-                        Console.WriteLine("timeout");
+                        Console.WriteLine("Timeout");
                     }
                 }
             //}
